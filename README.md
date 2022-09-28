@@ -17,3 +17,7 @@ Davis Germain (Sound Designer)
 ---
 
 # The Pitch
+
+It was not decided at the start that Seppuku would be created. My group and I were given the task to come up with three game ideas, all for different platforms including mobile devices, a "Jam-O-Drum", and "The Cave". Whether one of these ideas would be chosen was completely up to the TAs and Professors. To my understanding a game was chosen based on creativity, possible functionality, and how it compared to other groups as there was a limit to how many could work with either one of the platforms.
+
+[Team One Pitch Presentation.pdf](https://github.com/kzvonarek/Seppuku/files/9660283/Team.One.Pitch.Presentation.pdf)
