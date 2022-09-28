@@ -39,3 +39,7 @@ Game number two and three were both designed to take use off the two special pla
 **Basic mobile controls and layout inspired by previous control applications in Geometry Dash and Soul Knight**
 <img width="1275" alt="Seppuku Control Prototype" src="https://user-images.githubusercontent.com/112907563/192659164-f6606fec-e607-44d8-b0e7-b751e1e1bd4e.png">
 
+---
+
+# Intial Challenges
+
