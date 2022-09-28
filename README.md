@@ -41,5 +41,5 @@ Game number two and three were both designed to take use off the two special pla
 
 ---
 
-# Intial Challenges
+# Initial Challenges
 
