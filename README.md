@@ -43,3 +43,4 @@ Game number two and three were both designed to take use off the two special pla
 
 # Initial Challenges
 
+Starting from complete scratch can be difficult...
