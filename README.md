@@ -43,4 +43,12 @@ Game number two and three were both designed to take use off the two special pla
 
 # Initial Challenges
 
-Starting from complete scratch can be difficult...
+Starting from complete scratch can be difficult, doing it by yourself even more so. Having a group with experience under their belts, and a group of passionate people with a similar goal, to create a good game, was reassuring. With high aspirations and high moral, we began work right away after it was decided we would work on Seppuku. What that meant for me, now that I was a programmer, and continued to be a producer, was to begin balancing my roles. I worked first on getting the group organized with a task sheet, daily goals, planned meetings, and a place to share files. The only thing I regret, is not pushing the game design document more. It was worked on for a while, but then dropped pretty quickly, leading to a bit more of a vague idea of what the final product would be. We had many ideas, some more thought out than others, and in the end a lot had to be cut. 
+
+On the programming side, now having done a week of audio, I had to get right back to utilizing Unity. I stressed out a bit as I kept thinking about any thing that I may have forgot, but when I began to code, everything came back immediately. The biggest challenge on this front was the collaboration method of Seppuku, as we struggled on getting Unity Plastic to work, the built in Unity file sharing system. So, we had to switch to a more unfamilar, and at times aggravating platform, Perfoce, which would throughout the game development process cause many issues. There was a small, but tedious learning curve that caused some small hiccups, but we managed to overcome it and become very efficient within it.
+
+---
+
+# Prototyping
+
+Seppuku had many changes along the way...
