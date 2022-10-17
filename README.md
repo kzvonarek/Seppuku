@@ -51,4 +51,4 @@ On the programming side, now having done a week of audio, I had to get right bac
 
 # Prototyping
 
-Seppuku had many changes along the way...
+Seppuku had many changes along the way as of mid October of 2022.
