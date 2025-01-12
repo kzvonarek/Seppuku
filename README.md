@@ -1,5 +1,12 @@
 # Seppuku
 
+# Video Showcase
+
+
+https://github.com/user-attachments/assets/d6cf5e25-444e-4fe9-8230-6f2da5699419
+
+
+
 # Exploring The Unknown
 
 Originality at its core means one thing, that is "created directly and personally by a particular artist; not a copy or imitation." Being presented with this task can be difficult as there are already so many original things out there, it is very tough to think of something of your own to add to that pile. Tackling this challenge alone can be an issue, but when you work together, anything can be possible, even when it looks like it would all go wrong. 
@@ -53,4 +60,4 @@ On the programming side, now having done a week of audio, I had to get right bac
 
 # Prototyping
 
-Seppuku had many changes along the way as of mid October of 2022.
+[Updated as of October of 2022]
